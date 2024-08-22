@@ -1,3 +1,4 @@
+/*lab work*/
 import java.util.Scanner;
 public class MatrixMultiplication
 {
