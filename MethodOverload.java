@@ -50,5 +50,6 @@ public class MethodOverload
         System.out.print("Enter the height of the triangle: ");
         double height = scanner.nextDouble();
         calculator.calculateArea(base, height, true);
-         }
+        scanner.close(); 
+	}
 }
